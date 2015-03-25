@@ -1,5 +1,6 @@
 # Index
-==Repository for indexing and organizing whatever needs to be contained in the other repositories==
+Repository for indexing and organizing whatever needs to be contained in the other repositories
+===============================================================================================
 
 Welcome to the Rong Li lab GitHub space. 
 
